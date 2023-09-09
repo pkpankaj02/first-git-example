@@ -6,7 +6,8 @@ public class Main {
         System.out.println("output from java program");
         System.out.println(new Date());
         System.out.println("hello this is the second file added");
-        
+        Student s= new Student();
+        s.fun();
 
     }
 
